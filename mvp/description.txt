@@ -1,21 +1,39 @@
 Hi, guys and girls!
 
-Please, take a few minutes of your time for developing your project and give a hand with ours! We are developing (as I will call it) an social experimental game called "Koi e po po nerd?" (Who's better better nerd?). :D We would really love if you will take a part of your time to read what is our project about and if you wish give us your ideas and feedback! Thank you!
+Please, take a few minutes of your time for developing your project and give a hand with ours! We are developing 
+(as I will call it) an social experimental game called "Koi e po po nerd?" (Who's better better nerd?). :D 
+We would really love if you will take a part of your time to read what is our project about and if you wish give
+ us your ideas and feedback! Thank you!
 
-The idea is simple: A game based on the principle of the "Facemash" website, created by Mark Zuckerberg and team, where you compare a set of people on some factor or aspect of their public life. In the movie the factor is "Hotness", but our idea is to change that into always changing "comparisson factors". So, the target group of the users of this webapp will be We - the "nerds" from the IT sociaties around. These users are the people who compare and who are being compared, by some factor or aspect. We are looking for the best, the most original, and of course the most fun (and not rude) ideas you can think of that we can compare each other. Some examples of our ideas for now are:
+The idea is simple: A game based on the principle of the "Facemash" website, created by Mark Zuckerberg and team,
+where you compare a set of people on some factor or aspect of their public life. In the movie the factor is "Hotness",
+but our idea is to change that into always changing "comparisson factors". So, the target group of the users of this
+webapp will be We - the "nerds" from the IT sociaties around. These users are the people who compare and who are being
+compared, by some factor or aspect. We are looking for the best, the most original, and of course the most fun (and
+not rude) ideas you can think of that we can compare each other. Some examples of our ideas for now are:
 
 - (Holiday game for Helloween) Comparison of pictures of the nerdiest costume for Helloween. 
 - Comparison of screen shots of your "greatest" comment in source code.
-- Or something like the very popular in the "internet" - challenges. Someone challanges people to do some stupid stuff and vine it, and then the public compares the vines.
+- Or something like the very popular in the "internet" - challenges. Someone challanges people to do some stupid stuff
+and vine it, and then the public compares the vines.
 - etc.
 
-The aim is to have a feature for gathering ideas of funny ways to compare each other from the users and then put them trough vote (all users are gonna be able to vote) to decide, which are we gonna use. For now we will use Facebook as a provider of voting feature.
+The aim is to have a feature for gathering ideas of funny ways to compare each other from the users and then put them
+trough vote (all users are gonna be able to vote) to decide, which are we gonna use. For now we will use Facebook as a
+provider of voting feature.
 
-And now you will say, but this is not a game. Well here comes the gamification part of the project - users will be able to compete with each other in various groups or classes of "comparisson factors" (again - user generated). A team up feature will be added, which can friends or collegues use to compete by teams with each other.
+And now you will say, but this is not a game. Well here comes the gamification part of the project - users will be 
+able to compete with each other in various groups or classes of "comparisson factors" (again - user generated).
+A team up feature will be added, which can friends or collegues use to compete by teams with each other.
 
-To sum it all up: the users are deciding to participate or not with their photos, vines and etc., the users are creating the "comparisson factors", by which we are going to be comparing each other and we should do this all for fun in our spare time! 
-!!! The aim of the game will be to entertain and NOT offend anybody! The project is an experiment, but we don't want to be rude and disrespectful to ANYBODY with creating it and maybe deploy it publicly eventualy !!!
+To sum it all up: the users are deciding to participate or not with their photos, vines and etc., the users are
+creating the "comparisson factors", by which we are going to be comparing each other and we should do this all for fun
+in our spare time! 
+!!! The aim of the game will be to entertain and NOT offend anybody! The project is an experiment, but we don't want
+to be rude and disrespectful to ANYBODY with creating it and maybe deploy it publicly eventualy !!!
 
-We want to gather your opinion if project like this will be interesting and would you give it a try by providing your photos and/or voting by comparing? Also, we would really like it if you share your ideas for fun ways to compare stuff about us!
+We want to gather your opinion if project like this will be interesting and would you give it a try by providing your
+photos and/or voting by comparing? Also, we would really like it if you share your ideas for fun ways to compare stuff
+about us!
 
 You can find us...
