@@ -1,0 +1,8 @@
+// modules config
+{
+  "modules" : {
+    "pictures": "./modules/pictures.js",
+    "users": "./modules/users.js",
+    "scores": "./modules/scores.js"
+  }
+}

@@ -1,6 +1,7 @@
 
-
-var modules;
+// git dummy checkin comment :)
+var modules = require('./modules.js');
+var items;
 
 (function() {
   init(config);
@@ -8,6 +9,7 @@ var modules;
 
 exports.init = function () {
   modules = require('./modules.js');
+
 },
 
 exports.getModules = function() {
